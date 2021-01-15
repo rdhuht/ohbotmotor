@@ -6,7 +6,8 @@
         "radio": "*",
         "microphone": "*",
         "servo": "*",
-        "robotbit": "github:kittenbot/pxt-robotbit#v0.3.6"
+        "robotbit": "github:kittenbot/pxt-robotbit#v0.3.6",
+        "pxt-kitronik-klef-piano": "github:kitronikltd/pxt-kitronik-klef-piano#v0.0.14"
     },
     "files": [
         "main.blocks",
